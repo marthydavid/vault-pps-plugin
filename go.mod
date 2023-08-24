@@ -1,4 +1,4 @@
-module github.com/bva/vault-pps-plugin
+module github.com/marthydavid/vault-pps-plugin
 
 go 1.18
 

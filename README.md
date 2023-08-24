@@ -7,7 +7,7 @@ Plugin for Hashicorp's Vault, which connect it to Pleasant Password Server.
 Download and build Go plugin sources:
 
 ```
-go install github.com/bva/vault-pps-plugin@1.0.0
+go install github.com/marthydavid/vault-pps-plugin@1.0.0
 ```
 You will need to define a plugin directory using the plugin_directory configuration directive in Vault configutration,
 then place the vault-pss executable generated above in the directory.
