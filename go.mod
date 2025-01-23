@@ -6,7 +6,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/vault/api v1.7.1
 	github.com/hashicorp/vault/sdk v0.5.0
-	gopkg.in/resty.v1 v1.12.0
+	gopkg.in/resty.v2 v2.16.5
 )
 
 require (
